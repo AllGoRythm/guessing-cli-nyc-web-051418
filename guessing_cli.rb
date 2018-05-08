@@ -24,8 +24,6 @@ def run_guessing_game
   end
 end
 
-
-
 # until command_entered == "exit"
 #   puts "Please enter a command:"
 #   command_entered = gets.chomp
