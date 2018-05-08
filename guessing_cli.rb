@@ -23,23 +23,3 @@ def run_guessing_game
     end
   end
 end
-
-# until command_entered == "exit"
-#   puts "Please enter a command:"
-#   command_entered = gets.chomp
-#
-#   case command_entered
-#   when "list"
-#     list
-#   when "play"
-#     play
-#   when "help"
-#     help
-#   when "exit"
-#     exit_jukebox
-#   else
-#     exit_jukebox
-#   end
-#
-# end
-# end
