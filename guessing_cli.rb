@@ -6,7 +6,7 @@ def run_guessing_game
   # You guessed the correct number! if the number has been guessed correctly,
   # or The computer guessed <number>. if the number has been guessed incorrectly
   # Allowing the user to exit the program when exit is the input
-
+  input = ""
 
   while input
     puts "Guess a number between 1 and 6."
