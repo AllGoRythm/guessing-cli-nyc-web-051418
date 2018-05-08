@@ -7,7 +7,7 @@ def run_guessing_game
   # or The computer guessed <number>. if the number has been guessed incorrectly
   # Allowing the user to exit the program when exit is the input
 
-  input = ""
+
   while input
     puts "Guess a number between 1 and 6."
     input = gets.chomp
